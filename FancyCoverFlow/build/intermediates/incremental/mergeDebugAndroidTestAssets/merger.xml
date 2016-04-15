@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/lzm/sourcecode/MyApplication/CoverTest/FancyCoverFlow/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/lzm/sourcecode/MyApplication/CoverTest/FancyCoverFlow/src/androidTest/assets"/><source path="/home/lzm/sourcecode/MyApplication/CoverTest/FancyCoverFlow/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
